@@ -7,6 +7,7 @@ import PowerButton from '../subComponents/PowerButton'
 
 import {Blogs} from '../data/BlogData';
 import BlogComponent from './BlogComponent'
+import AnchorComponent from '../subComponents/Anchor'
 
 
 const MainContainer = styled.div`
@@ -49,6 +50,7 @@ const BlogPage = () => {
             <LogoComponent />
             <PowerButton />
             <SocialIcons />
+            <AnchorComponent />
 <Center>
 <Grid>
     {
