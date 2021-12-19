@@ -27,7 +27,7 @@ z-index:3;
 cursor: pointer;
 
 &: hover{
-    background-color: rgba(0,255,0,0.4);
+    background-color: rgb(165,55,253); 
     box-shadow:0 0 8px 6px gba(0,255,0,0.2);
 }
 
